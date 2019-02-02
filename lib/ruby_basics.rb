@@ -24,6 +24,6 @@ def last_evaluated_value
     "Guy Fieri"
 end
 
-def pizza_party
-
+def pizza_party(ingredients = 'cheese')
+  return ingredients
 end
