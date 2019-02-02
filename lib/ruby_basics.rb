@@ -19,7 +19,9 @@ return phrase
 end
 
 def last_evaluated_value
-
+  putting_for_test = "Hope this Works"
+    return "expert"
+    "Guy Fieri"
 end
 
 def pizza_party
